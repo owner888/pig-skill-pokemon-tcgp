@@ -1,0 +1,12 @@
+{
+  "name": "owner888/pig-skill-pokemon-tcgp",
+  "description": "Pokemon TCG Pocket (PTCGP) automation skill for pig agent",
+  "type": "library",
+  "license": "MIT",
+  "keywords": ["pig-package", "pig", "skill", "pokemon-tcgp", "android-use", "jev"],
+  "extra": {
+    "pig": {
+      "skills": ["skills/pokemon-tcgp"]
+    }
+  }
+}
